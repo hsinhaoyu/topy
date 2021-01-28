@@ -6,9 +6,11 @@ This is a _Mathematica_ package for analyzing retinotopic mapping data collected
 
 Hadjidimitrakis et al. (2019) Topographic Organization of the 'Third-Tier' Dorsomedial Visual Cortex in the Macaque. _Journal of Neuroscience_ 39, 5311-5325.
 
-<img src="gallery/hadjidimitrakis2019.png" width="200>
+![](./gallery/hadjidimitrakis2019.png | width=200)
 
 Yu et al (2018) Robust Visual Responses and Normal Retinotopy in Primate Lateral Geniculate Nucleus following Long-term Lesions of Striate Cortex. _Journal of Neuroscience_ 38, 3955-3970.
 
-<img src="gallery/yu2018.png" width="200>
+![](./gallery/yu2018.png | width=200)
+
+
 
