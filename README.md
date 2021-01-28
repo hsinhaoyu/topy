@@ -1,4 +1,4 @@
-# Topy - a tool for visualizing and analyzing retinotopic data
+# Topy - a tool for visualizing and analyzing retinotopic mapping data
 
 This is a _Mathematica_ package for analyzing retinotopic mapping data collected in the classical method: handmapped receptive fields drawn on a spherical screen. The package performs basic geometrical calculations based on spherical coordinates, and allows the researchers to explore the dataset easily. My colleagues and I have used this package to generate figures in a number of publications. 
 
