@@ -12,3 +12,7 @@ Hadjidimitrakis et al. (2019) Topographic Organization of the 'Third-Tier' Dorso
 Yu et al (2018) Robust Visual Responses and Normal Retinotopy in Primate Lateral Geniculate Nucleus following Long-term Lesions of Striate Cortex. _Journal of Neuroscience_ 38, 3955-3970.
 
 <img src="https://github.com/hsinhaoyu/topy/blob/main/gallery/yu2018.png" width="300">
+
+The stylistic elements in Topy is flexity. You can visualize your data in many different ways:
+
+<img src="https://github.com/hsinhaoyu/topy/blob/main/gallery/styles.png" width="500">
